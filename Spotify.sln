@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Domain", "Spotify.Domain\Spotify.Domain.csproj", "{D7123823-83BE-4E37-B806-93192DB5E9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Infrastructure", "Spotify.Infrastructure\Spotify.Infrastructure.csproj", "{165A747A-1569-41F6-A131-975FB3CFB01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Application", "Spotify.Application\Spotify.Application.csproj", "{F02C225E-9E92-4BCD-9F5A-833BC865FEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotifyy.UI", "Spotifyy.UI\Spotifyy.UI.csproj", "{938924A9-F5EB-4D4C-9828-9669D8CF344E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7123823-83BE-4E37-B806-93192DB5E9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7123823-83BE-4E37-B806-93192DB5E9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7123823-83BE-4E37-B806-93192DB5E9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7123823-83BE-4E37-B806-93192DB5E9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165A747A-1569-41F6-A131-975FB3CFB01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165A747A-1569-41F6-A131-975FB3CFB01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165A747A-1569-41F6-A131-975FB3CFB01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165A747A-1569-41F6-A131-975FB3CFB01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02C225E-9E92-4BCD-9F5A-833BC865FEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02C225E-9E92-4BCD-9F5A-833BC865FEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02C225E-9E92-4BCD-9F5A-833BC865FEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02C225E-9E92-4BCD-9F5A-833BC865FEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938924A9-F5EB-4D4C-9828-9669D8CF344E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938924A9-F5EB-4D4C-9828-9669D8CF344E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938924A9-F5EB-4D4C-9828-9669D8CF344E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938924A9-F5EB-4D4C-9828-9669D8CF344E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
